@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<Employee name="Ivan Ivanov">
+		<Age>30</Age>
+		<Programmer>True</Programmer>
+		<Country>Ukraine</Country>
+		<Gender>Male</Gender>
+	</Employee>
+</root>
